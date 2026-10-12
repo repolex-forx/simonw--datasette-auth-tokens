@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-auth-tokens",
+  "versions": [
+    {
+      "commit": "198f3af83615526522c12dfeed2ebb8dc8660ea9",
+      "tag": "0.4a13",
+      "parsed_at": "2026-10-12T16:33:43.108687+00:00"
+    }
+  ]
+}
