@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-auth-tokens",
+  "versions": [
+    {
+      "commit": "198f3af83615526522c12dfeed2ebb8dc8660ea9",
+      "parsed_at": "2026-10-12T16:31:06.455463+00:00",
+      "tag": "0.4a13",
+      "filetree": "filetree/198f3af83615526522c12dfeed2ebb8dc8660ea9.nq.gz",
+      "blobs": [
+        "blob/aff2b7a503264c693db5d8e12c5c69ccb41edff5.nq.gz",
+        "blob/9d1f26915c164e749101f799f619e233d34b8e9c.nq.gz",
+        "blob/cffc4ae1fa80e8c540e600326074800b183bfd99.nq.gz",
+        "blob/266dbe241ab812bcd05b495b638fd6a89895fe15.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/0564f0c6f458d32294b4f6f8f3168f08485e2e31.nq.gz",
+        "blob/af4e1a0d1c96f0a840e80b50555a5ba46bef6d1f.nq.gz",
+        "blob/69df63bdbbb435e3f103b8855088b315b5c8735b.nq.gz",
+        "blob/2483ebcb8da96e8d69ba3db2495830651e0902ee.nq.gz",
+        "blob/0c002e2d41cdebe403dc91ef3d667ec19dafcef7.nq.gz",
+        "blob/767998208057a9339965a8e4df727cf8f2538736.nq.gz",
+        "blob/a32cf26e3c23c8627a87e094fe7453317896e2dc.nq.gz",
+        "blob/feeb143dfd817fcf8429b988be8ad59e9bfe0467.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
